@@ -8,6 +8,12 @@ Certainly! Here's a detailed release for your project:
 
 This project is a simple music player application built using Python and Tkinter. It allows users to play, pause, skip forward, and skip backward in a predefined list of songs. The application features a graphical user interface (GUI) that provides a seamless and intuitive user experience.
 
+
+
+
+https://github.com/user-attachments/assets/0893b2d8-40f3-4894-8d4d-5bae3dfe7e26
+
+
 ### Key Features:
 
 1. **Play/Pause Control:**
